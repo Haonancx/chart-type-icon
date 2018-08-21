@@ -32,11 +32,37 @@
 
 ## Development
 
-```bash
-$ git clone git@github.com:Haonancx/chart-type-icon.git
-```
+symbol reference
+The steps are as follows:
+
+### Step 1: Introduce the symbol code generated below the project:
+
+<pre><code class="lang-js hljs javascript"><span class="hljs-comment">&lt;script src="./iconfont.js"&gt;&lt;/script&gt;</span></code></pre>
+
+
+### Step 2: Add the generic css code (introduced once):
 
 Open the demo_symbol.html page in the folder by your browsers
+
+
+```css
+<style type="text/css">
+.icon {
+   width: 1em; height: 1em;
+   vertical-align: -0.15em;
+   fill: currentColor;
+   overflow: hidden;
+}
+</style>
+```
+
+###Step 3: Pick the corresponding icon and get the class name, apply to the page:
+
+```
+<svg class="icon" aria-hidden="true">
+  <use xlink:href="#icon-xxx"></use>
+</svg>
+```
 
 ## Contributing
 
