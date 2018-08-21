@@ -68,6 +68,6 @@ Open the demo_symbol.html page in the folder by your browsers
 
 We welcome all suggestion,You can submit any ideas and have a good time! :)
 
-## contact me
+## Contact me
 
-- [email:fsux@outlook.com](mailto:fsux@outlook.com)
+- [Email:fsux@outlook.com](mailto:fsux@outlook.com)
