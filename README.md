@@ -3,6 +3,10 @@
 
 ![chart-type-icon](https://i.imgur.com/bkyarFc.png)
 
+## Library
+
+[iconfont:chart-type-icon](http://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&cid=11859)
+
 ## Features
 
 - An enterprise-class UI design system for desktop applications.
@@ -12,7 +16,7 @@
 
 ## Environment Support
 
-* Modern browsers and Internet Explorer 9+ (with [polyfills](https://ant.design/docs/react/getting-started#Compatibility))
+* Modern browsers and Internet Explorer 9+
 * Server-side Rendering
 * [Electron](http://electron.atom.io/)
 
@@ -24,7 +28,7 @@
 ## Links
 
 - [Home page](http://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&cid=11859)
-- [Author's personal website](http://fsux.me)
+- [Author's personal website](http://fsux.me/about.html)
 
 ## Development
 
@@ -37,3 +41,7 @@ Open the demo_symbol.html page in the folder by your browsers
 ## Contributing
 
 We welcome all suggestion,You can submit any ideas and have a good time! :)
+
+## contact me
+
+- [email:fsux@outlook.com](mailto:fsux@outlook.com)
