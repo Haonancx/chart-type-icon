@@ -56,7 +56,7 @@ Open the demo_symbol.html page in the folder by your browsers
 </style>
 ```
 
-###Step 3: Pick the corresponding icon and get the class name, apply to the page:
+### Step 3: Pick the corresponding icon and get the class name, apply to the page:
 
 ```
 <svg class="icon" aria-hidden="true">
