@@ -33,7 +33,7 @@
 ## Development
 
 ```bash
-$ git clone git@github.com:fsux/chart-type-icon.git
+$ git clone git@github.com:Haonancx/chart-type-icon.git
 ```
 
 Open the demo_symbol.html page in the folder by your browsers
